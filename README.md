@@ -1,7 +1,11 @@
 # Construction of layout for studies
+Observation: I'm using this project for responsiveness studies
 
 ## How to start the project
 ```bash
+$ git clone https://github.com/JoseMurilloc/layot-bella
+$ yarn
+$ yarn install
 ```
 
 ## Techs using on projects
@@ -9,7 +13,6 @@
 - 💄 Styled-components
 - ⚗️ typescript
 
-      Observation: I'm using this project for responsiveness studies
 
 ---
 ## Layout base 🎉
